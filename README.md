@@ -14,3 +14,5 @@
 
 ![草地渲染 (1)](README.assets/草地渲染 (1)-16793062208693.gif)
 
+视频效果：[2024技术美术暑假实习生作品集_哔哩哔哩bilibili](https://www.bilibili.com/video/BV11x4y1P7YM/)
+
